@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+.bgheader { /* Ajusta la altura según lo que necesites */
+  background:
+  linear-gradient(95deg, #0096cdb3 0%, #0096cdb3 50%, #043260cc 50%, #043260cc 100%),
+  url('https://img.freepik.com/foto-gratis/amigos-multietnicos-divierten-parque-laptop_23-2148222579.jpg?semt=ais_hybrid&w=740');
+  background-size: cover, cover;
+  background-position: center, bottom;
+  background-repeat: no-repeat, no-repeat;
+  position: relative;
+}
